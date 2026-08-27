@@ -14,7 +14,7 @@ My portfolio demonstrates how I use data cleaning, modeling, analysis, and visua
 **Tools:** SQL Developer • SSMS • Informatica • Collibra • ERwin • Jupyter
 
 
-## Featured Project
+## Featured Projects
 
 ### E-Commerce Sales Analytics — Power BI
 
@@ -23,6 +23,16 @@ Interactive Power BI solution analyzing **sales, customers, markets, products, p
 **Skills:** Power BI • DAX • Data Modeling • Business Analysis • Data Visualization
 
 ➡️ [View Project](https://github.com/BushraM001/E-Commerce-Sales-Analytics-PowerBI)
+
+### HR Analytics Dashboard — Tableau
+
+Guided learning project demonstrating **Tableau dashboard development, HR analytics, interactive filters, and data visualization**.
+
+**Skills:** Tableau • Data Visualization • Dashboard Design • HR Analytics
+
+🎓 **Guided Learning Project:** Data With Baraa
+
+➡️ [View Project](https://github.com/BushraM001/HR-Analytics-Dashboard-Tableau)
 
 ## 🚀 Currently Building
 
