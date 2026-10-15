@@ -42,5 +42,4 @@ Guided learning project demonstrating **Tableau dashboard development, HR analyt
 
 ➡️ [View Project](https://github.com/BushraM001/HR-Analytics-Dashboard-Tableau)
 
-## 🚀 Currently Building
 
