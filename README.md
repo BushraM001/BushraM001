@@ -24,6 +24,14 @@ Interactive Power BI solution analyzing **sales, customers, markets, products, p
 
 ➡️ [View Project](https://github.com/BushraM001/E-Commerce-Sales-Analytics-PowerBI)
 
+### Customer Orders — SQL Server Data Cleaning & Analysis
+
+End-to-end SQL Server project covering **data profiling, duplicate removal, data standardization, referential integrity validation, customer identity consolidation, and sales analysis**.
+
+**Skills**: SQL Server • T-SQL • Data Cleaning • Data Validation • CTEs • Window Functions • Joins • Business Analysis
+
+➡️ [ViewProject](https://github.com/BushraM001/SQL-Server-Data-Cleaning-Analysis)
+
 ### HR Analytics Dashboard — Tableau
 
 Guided learning project demonstrating **Tableau dashboard development, HR analytics, interactive filters, and data visualization**.
@@ -36,6 +44,3 @@ Guided learning project demonstrating **Tableau dashboard development, HR analyt
 
 ## 🚀 Currently Building
 
-**SQL Server Data Cleaning & Analysis Project**
-
-A portfolio project demonstrating SQL, data cleaning, transformations, data validation, and database design.
